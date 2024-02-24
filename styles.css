@@ -194,4 +194,9 @@ footer {
     .footer-container {
         flex-direction: column;
     }
+    header .btn {
+        font-size: 1rem;
+        padding: 0.4em 1.3em;
+     
+    }
 }
